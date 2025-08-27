@@ -117,5 +117,5 @@ table .value {
 @media screen and (max-width: 700px){
     body {padding:0px; margin:0px;}
     main {width:100%; border-radius: 0px; margin-top: 0px; margin-bottom: 10px;}
-    .banner {width: 97vw; border-radius: 0px; position: relative; left:-45px; top: -45px;}
+    .banner {width: 100vw; border-radius: 0px; position: relative; left:-45px; top: -45px;}
 }
